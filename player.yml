@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: yme-playground
-        image: msabwat/playground:v2
+        image: msabwat/playground:v1
         ports:
         - containerPort: 8000
 ---
